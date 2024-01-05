@@ -18,8 +18,8 @@ START_IMG = getenv("START_IMG", "https://graph.org/file/325aa1aa99e917235149e.jp
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/rr_r_v")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rr_r_v")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/A_M_030")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/A_M_030")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5656828413").split()))
 
